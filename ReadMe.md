@@ -38,7 +38,7 @@ mvn clean package jib:build
 
 # Stream Deployments 
 
-We can either use the server console or the spring data flow shell cli :
+We can either use the server console or the spring data flow shell cli.The installation can be downloaded from [here](https://repo.spring.io/release/org/springframework/cloud/spring-cloud-dataflow-server-local/1.7.4.RELEASE/spring-cloud-dataflow-server-local-1.7.4.RELEASE.jar)
 
 ```bash 
 java -jar spring-cloud-dataflow-shell-1.7.4.RELEASE.jar
